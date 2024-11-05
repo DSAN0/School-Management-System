@@ -1,0 +1,373 @@
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.exe.config
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.exe
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.pdb
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.Form1.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.Properties.Resources.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.exe
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.pdb
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.PrincipalLogin.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TeacherLogin.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentLogin.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\ZstdSharp.dll
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.pdb
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.IO.Pipelines.xml
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.CopyComplete
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.PrincipalMenu.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentMenu.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TeacherMenu.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddStudent.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddTeacher.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddTimeTable.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentResults.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentsAttendans.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TimeTableTeacher.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddAtendance.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddHomeWork.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddResults.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.ExamResultStudent.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.HomeWorkStudent.resources
+C:\Users\HP\Desktop\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TimeTableStudent.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.exe.config
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.exe
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.pdb
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\BouncyCastle.Crypto.dll
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.dll
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.dll
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Hash.xxHash.dll
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\MySql.Data.dll
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Buffers.dll
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.IO.Pipelines.dll
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Memory.dll
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Numerics.Vectors.dll
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\ZstdSharp.dll
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\BouncyCastle.Crypto.xml
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.pdb
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.xml
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.xml
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Hash.xxHash.xml
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\MySql.Data.xml
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Buffers.xml
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.IO.Pipelines.xml
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Memory.xml
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Numerics.Vectors.xml
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.AssemblyReference.cache
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.SuggestedBindingRedirects.cache
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddAtendance.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddHomeWork.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddResults.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddStudent.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddTeacher.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddTimeTable.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.ExamResultStudent.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.Form1.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.HomeWorkStudent.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.PrincipalLogin.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.PrincipalMenu.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.Properties.Resources.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentLogin.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentMenu.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentResults.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentsAttendans.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TeacherLogin.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TeacherMenu.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TimeTableStudent.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TimeTableTeacher.resources
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.GenerateResource.cache
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.CoreCompileInputs.cache
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.CopyComplete
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.exe
+D:\NIBM\lecturs note\3rd\GUI\GUI project\WF project\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.pdb
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.exe.config
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.exe
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.pdb
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\BouncyCastle.Crypto.dll
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.dll
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.dll
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Hash.xxHash.dll
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\MySql.Data.dll
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Buffers.dll
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.IO.Pipelines.dll
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Memory.dll
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Numerics.Vectors.dll
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\ZstdSharp.dll
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\BouncyCastle.Crypto.xml
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.pdb
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.xml
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.xml
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Hash.xxHash.xml
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\MySql.Data.xml
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Buffers.xml
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.IO.Pipelines.xml
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Memory.xml
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Numerics.Vectors.xml
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.AssemblyReference.cache
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.SuggestedBindingRedirects.cache
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddAtendance.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddHomeWork.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddResults.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddStudent.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddTeacher.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddTimeTable.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.BatchPassNewGrade.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.ExamResultStudent.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.Form1.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.HomeWorkStudent.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.PrincipalLogin.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.PrincipalMenu.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.Properties.Resources.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentLogin.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentMenu.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentResults.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentsAttendans.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TeacherLogin.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TeacherMenu.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TimeTableStudent.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TimeTableTeacher.resources
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.GenerateResource.cache
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.CoreCompileInputs.cache
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.CopyComplete
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.exe
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.pdb
+D:\project vertion controls\finish\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.RemovePasteYear.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.exe.config
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.exe
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.pdb
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\BouncyCastle.Crypto.dll
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.dll
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.dll
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Hash.xxHash.dll
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\MySql.Data.dll
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Buffers.dll
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.IO.Pipelines.dll
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Memory.dll
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Numerics.Vectors.dll
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\ZstdSharp.dll
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\BouncyCastle.Crypto.xml
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.pdb
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.xml
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.xml
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Hash.xxHash.xml
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\MySql.Data.xml
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Buffers.xml
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.IO.Pipelines.xml
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Memory.xml
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Numerics.Vectors.xml
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.AssemblyReference.cache
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.SuggestedBindingRedirects.cache
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddAtendance.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddHomeWork.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddResults.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddStudent.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddTeacher.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddTimeTable.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.BatchPassNewGrade.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.ExamResultStudent.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.Form1.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.HomeWorkStudent.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.PrincipalLogin.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.PrincipalMenu.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.Properties.Resources.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.RemovePasteYear.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentLogin.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentMenu.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentResults.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentsAttendans.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TeacherLogin.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TeacherMenu.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TimeTableStudent.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TimeTableTeacher.resources
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.GenerateResource.cache
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.CoreCompileInputs.cache
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.CopyComplete
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.exe
+D:\my projects\school management system project GUI\school_management_system_gui\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.pdb
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.exe.config
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.exe
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.pdb
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\ZstdSharp.dll
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.pdb
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.IO.Pipelines.xml
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddAtendance.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddHomeWork.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddResults.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddStudent.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddTeacher.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddTimeTable.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.BatchPassNewGrade.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.ExamResultStudent.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.Form1.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.HomeWorkStudent.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.PrincipalLogin.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.PrincipalMenu.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.Properties.Resources.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.RemovePasteYear.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentLogin.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentMenu.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentResults.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentsAttendans.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TeacherLogin.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TeacherMenu.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TimeTableStudent.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TimeTableTeacher.resources
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.CopyComplete
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.exe
+C:\Users\HP\Desktop\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.pdb
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.exe.config
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.exe
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\SCHOOL SYSTEM.pdb
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.dll
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\MySql.Data.dll
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Buffers.dll
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.IO.Pipelines.dll
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Memory.dll
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\ZstdSharp.dll
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.pdb
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Google.Protobuf.xml
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\MySql.Data.xml
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Buffers.xml
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.IO.Pipelines.xml
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Memory.xml
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.AssemblyReference.cache
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddAtendance.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddHomeWork.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddResults.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddStudent.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddTeacher.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.AddTimeTable.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.BatchPassNewGrade.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.ExamResultStudent.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.Form1.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.HomeWorkStudent.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.PrincipalLogin.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.PrincipalMenu.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.Properties.Resources.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.RemovePasteYear.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentLogin.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentMenu.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentResults.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.StudentsAttendans.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TeacherLogin.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TeacherMenu.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TimeTableStudent.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL_SYSTEM.TimeTableTeacher.resources
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.GenerateResource.cache
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.exe
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL SYSTEM.pdb
+C:\Users\DUMINDU\Desktop\New folder (6)\SCHOOL SYSTEM\SCHOOL SYSTEM\obj\Debug\SCHOOL S.5564CD0E.Up2Date

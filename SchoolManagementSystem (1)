@@ -1,0 +1,353 @@
+-- phpMyAdmin SQL Dump
+-- version 5.2.1
+-- https://www.phpmyadmin.net/
+--
+-- Host: 127.0.0.1
+-- Generation Time: Sep 04, 2023 at 08:33 PM
+-- Server version: 10.4.28-MariaDB
+-- PHP Version: 8.2.4
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- Database: `school management system`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `attendancy_of_student`
+--
+
+CREATE TABLE `attendancy_of_student` (
+  `grades` varchar(3) NOT NULL,
+  `student_ID` int(5) NOT NULL,
+  `dates` date NOT NULL,
+  `P_or_A` varchar(2) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `home_work`
+--
+
+CREATE TABLE `home_work` (
+  `GRADE` varchar(3) NOT NULL,
+  `SUB_ID` int(3) NOT NULL,
+  `DATE` date NOT NULL,
+  `H_W_M` varchar(255) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `prinsipal_details`
+--
+
+CREATE TABLE `prinsipal_details` (
+  `P_INDEX` int(5) NOT NULL,
+  `NAME` varchar(255) NOT NULL,
+  `GENDER` varchar(255) NOT NULL,
+  `ADDRESS` varchar(255) NOT NULL,
+  `DOB` date NOT NULL,
+  `T-PHON` int(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `prinsipal_details`
+--
+
+INSERT INTO `prinsipal_details` (`P_INDEX`, `NAME`, `GENDER`, `ADDRESS`, `DOB`, `T-PHON`) VALUES
+(1, 'mahinda rajapaksha', 'Male', '123 Main St, City, Country', '1990-05-15', 123456789);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `results`
+--
+
+CREATE TABLE `results` (
+  `GRADE` varchar(3) DEFAULT NULL,
+  `BATCH` int(4) DEFAULT NULL,
+  `INDEX_NO` int(5) DEFAULT NULL,
+  `SUB_ID` int(3) DEFAULT NULL,
+  `EXAM_NAME` varchar(200) NOT NULL,
+  `RESULT` varchar(2) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `results`
+--
+
+INSERT INTO `results` (`GRADE`, `BATCH`, `INDEX_NO`, `SUB_ID`, `EXAM_NAME`, `RESULT`) VALUES
+('7', 2007, 45789, 1, 'SINHALA PRIMARY 1 STAGE', 'A+');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `student_details`
+--
+
+CREATE TABLE `student_details` (
+  `S_INDEX` int(5) NOT NULL,
+  `BATCH` int(4) NOT NULL,
+  `NAME` varchar(255) NOT NULL,
+  `GANDER` varchar(6) NOT NULL,
+  `ADDRESS` varchar(255) NOT NULL,
+  `DOB` date NOT NULL,
+  `T-PHON` int(10) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `student_details`
+--
+
+INSERT INTO `student_details` (`S_INDEX`, `BATCH`, `NAME`, `GANDER`, `ADDRESS`, `DOB`, `T-PHON`) VALUES
+(1, 2005, 'dumindu', 'feemai', '123 Main St, City, Country', '2005-05-15', 123456785),
+(11113, 2003, 'mahasona', 'Male', 'borella', '1784-06-16', 724568173),
+(45789, 2007, 'jhjhjhjhjhjhjhjhjh', 'Male', 'ffffffffffffffffffffffffffffffffffffffffffffffffffff', '2004-06-16', 1245896310);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `subject`
+--
+
+CREATE TABLE `subject` (
+  `SUB_ID` int(3) NOT NULL,
+  `SUBJECT_NAME` varchar(255) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `subject`
+--
+
+INSERT INTO `subject` (`SUB_ID`, `SUBJECT_NAME`) VALUES
+(1, 'SINHALA PRIMARY'),
+(3, 'histry'),
+(5, 'budda darmaya'),
+(6, 'English Language Arts (ELA)'),
+(7, 'Science (Biology, Chemistry, Physics)'),
+(8, 'Geography'),
+(9, 'Social Studies'),
+(10, 'Physical Education (PE)'),
+(11, 'Art'),
+(12, 'Music'),
+(13, 'Foreign Languages (e.g., Spanish, French, Chinese)'),
+(14, 'Computer Science'),
+(15, 'Literature'),
+(16, 'Health Education'),
+(17, 'Civics or Government'),
+(18, 'Economics'),
+(19, 'Environmental Science'),
+(20, 'Psychology'),
+(21, 'Sociology'),
+(22, 'Philosophy'),
+(23, 'Ethics'),
+(24, 'Mathematics');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `teacher_details`
+--
+
+CREATE TABLE `teacher_details` (
+  `T_INDEX` int(5) NOT NULL,
+  `SUBJECT_ID` int(11) DEFAULT NULL,
+  `NAME` varchar(255) DEFAULT NULL,
+  `ADDRESS` varchar(255) DEFAULT NULL,
+  `GENDER` varchar(6) DEFAULT NULL,
+  `DOB` date DEFAULT NULL,
+  `T_PHON` int(10) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `teacher_details`
+--
+
+INSERT INTO `teacher_details` (`T_INDEX`, `SUBJECT_ID`, `NAME`, `ADDRESS`, `GENDER`, `DOB`, `T_PHON`) VALUES
+(1, 1, 'HIRUNIKA', '123 Main St, City, Country', 'feemai', '1888-05-15', 123456785),
+(12478, 3, 'MIA KALIFA', 'KEGALLE', 'Female', '1999-06-15', 724469813),
+(45913, 19, 'sdfsdfsdfdsf', 'sssssssssssssssssssssssssssssss', 'Female', '1989-03-01', 726489137),
+(78451, 6, 'shiranthi rajapaksha', 'kothmale', 'Female', '1794-07-15', 725469813);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `time_table`
+--
+
+CREATE TABLE `time_table` (
+  `time_table_id` int(11) NOT NULL,
+  `GRADE` varchar(3) DEFAULT NULL,
+  `DAYTE` varchar(2) DEFAULT NULL,
+  `PERIOD` int(1) DEFAULT NULL,
+  `SUB_ID` int(3) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `time_table`
+--
+
+INSERT INTO `time_table` (`time_table_id`, `GRADE`, `DAYTE`, `PERIOD`, `SUB_ID`) VALUES
+(2001, '1', 'M', 1, 6),
+(2002, '1', 'M', 2, 1),
+(2003, '1', 'M', 3, 1),
+(2004, '1', 'M', 4, 1),
+(2005, '1', 'M', 5, 1),
+(2006, '1', 'M', 6, 1),
+(2007, '1', 'M', 7, 1),
+(2008, '1', 'M', 8, 1),
+(2009, '1', 'Tu', 1, 1),
+(2010, '1', 'Tu', 2, 1),
+(2011, '1', 'Tu', 3, 1),
+(2012, '1', 'Tu', 4, 1),
+(2013, '1', 'Tu', 5, 1),
+(2014, '1', 'Tu', 6, 1),
+(2015, '1', 'Tu', 7, 1),
+(2016, '1', 'Tu', 8, 1),
+(2017, '1', 'W', 1, 1),
+(2018, '1', 'W', 2, 1),
+(2019, '1', 'W', 3, 1),
+(2020, '1', 'W', 4, 1),
+(2021, '1', 'W', 5, 1),
+(2022, '1', 'W', 6, 1),
+(2023, '1', 'W', 7, 1),
+(2024, '1', 'W', 8, 1),
+(2025, '1', 'Th', 1, 1),
+(2026, '1', 'Th', 2, 1),
+(2027, '1', 'Th', 3, 1),
+(2028, '1', 'Th', 4, 1),
+(2029, '1', 'Th', 5, 1),
+(2030, '1', 'Th', 6, 1),
+(2031, '1', 'Th', 7, 1),
+(2032, '1', 'Th', 8, 1),
+(2033, '1', 'F', 1, 1),
+(2034, '1', 'F', 2, 1),
+(2035, '1', 'F', 3, 1),
+(2036, '1', 'F', 4, 1),
+(2037, '1', 'F', 5, 1),
+(2038, '1', 'F', 6, 1),
+(2039, '1', 'F', 7, 1),
+(2040, '1', 'F', 8, 1);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `update_grade`
+--
+
+CREATE TABLE `update_grade` (
+  `GRADE` varchar(3) NOT NULL,
+  `BATCH` int(4) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `update_grade`
+--
+
+INSERT INTO `update_grade` (`GRADE`, `BATCH`) VALUES
+('1', 2013),
+('10', 2004),
+('11', 2003),
+('12M', 2002),
+('13B', 2000),
+('2', 2012),
+('3', 2011),
+('4', 2010),
+('5', 2009),
+('6', 2008),
+('7', 2007),
+('8', 2006),
+('9', 2005);
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `prinsipal_details`
+--
+ALTER TABLE `prinsipal_details`
+  ADD PRIMARY KEY (`P_INDEX`);
+
+--
+-- Indexes for table `results`
+--
+ALTER TABLE `results`
+  ADD PRIMARY KEY (`EXAM_NAME`);
+
+--
+-- Indexes for table `student_details`
+--
+ALTER TABLE `student_details`
+  ADD PRIMARY KEY (`S_INDEX`);
+
+--
+-- Indexes for table `subject`
+--
+ALTER TABLE `subject`
+  ADD PRIMARY KEY (`SUB_ID`);
+
+--
+-- Indexes for table `teacher_details`
+--
+ALTER TABLE `teacher_details`
+  ADD PRIMARY KEY (`T_INDEX`),
+  ADD KEY `SUBJECT_ID` (`SUBJECT_ID`);
+
+--
+-- Indexes for table `time_table`
+--
+ALTER TABLE `time_table`
+  ADD PRIMARY KEY (`time_table_id`),
+  ADD KEY `SUB_ID` (`SUB_ID`),
+  ADD KEY `GRADE` (`GRADE`);
+
+--
+-- Indexes for table `update_grade`
+--
+ALTER TABLE `update_grade`
+  ADD PRIMARY KEY (`GRADE`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `time_table`
+--
+ALTER TABLE `time_table`
+  MODIFY `time_table_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2041;
+
+--
+-- Constraints for dumped tables
+--
+
+--
+-- Constraints for table `teacher_details`
+--
+ALTER TABLE `teacher_details`
+  ADD CONSTRAINT `teacher_details_ibfk_1` FOREIGN KEY (`SUBJECT_ID`) REFERENCES `subject` (`SUB_ID`);
+
+--
+-- Constraints for table `time_table`
+--
+ALTER TABLE `time_table`
+  ADD CONSTRAINT `time_table_ibfk_1` FOREIGN KEY (`SUB_ID`) REFERENCES `subject` (`SUB_ID`),
+  ADD CONSTRAINT `time_table_ibfk_2` FOREIGN KEY (`GRADE`) REFERENCES `update_grade` (`GRADE`);
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

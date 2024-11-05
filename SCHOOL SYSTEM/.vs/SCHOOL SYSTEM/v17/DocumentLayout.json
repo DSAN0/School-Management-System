@@ -1,0 +1,686 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|c:\\users\\dumindu\\desktop\\new folder (6)\\school system\\school system\\principallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\principallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\principalmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\principalmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\principallogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\principallogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\principallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\principallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\principalmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\principalmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\studentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\teacherlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\teacherlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\teacherlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\teacherlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\removepasteyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\removepasteyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\batchpassnewgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\batchpassnewgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\addtimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\addtimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\homeworkstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\homeworkstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\addresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\addresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\homeworkstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\homeworkstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\addhomework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\addhomework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\addhomework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\addhomework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\timetableteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\timetableteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\timetableteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\timetableteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\batchpassnewgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\batchpassnewgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\studentsattendans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\studentsattendans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\studentsattendans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\studentsattendans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\studentresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\studentresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\studentresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\studentresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\addteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\addteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\addteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\addteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\addresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\addresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\addatendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\addatendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\teachermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\teachermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\addatendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\addatendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\examresultstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\examresultstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\examresultstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\examresultstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\timetablestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\timetablestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\timetablestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\timetablestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\addtimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\addtimetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\addtimetable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\addtimetable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\school system\\teachermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7513D9-9ED2-401A-AF42-9AE21A13FF7A}|SCHOOL SYSTEM\\SCHOOL SYSTEM.csproj|solutionrelative:school system\\teachermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrincipalLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\PrincipalLogin.Designer.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\PrincipalLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\PrincipalLogin.Designer.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\PrincipalLogin.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:29:08.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrincipalLogin.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\PrincipalLogin.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\PrincipalLogin.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\PrincipalLogin.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\PrincipalLogin.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwDsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-07T06:41:13.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrincipalMenu.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\PrincipalMenu.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\PrincipalMenu.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\PrincipalMenu.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\PrincipalMenu.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAywBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-07T06:41:13.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrincipalMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\PrincipalMenu.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\PrincipalMenu.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\PrincipalMenu.cs [Design]",
+              "RelativeToolTip": "SCHOOL SYSTEM\\PrincipalMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-07T06:41:13.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentLogin.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\StudentLogin.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\StudentLogin.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\StudentLogin.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\StudentLogin.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\StudentLogin.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\StudentLogin.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\StudentLogin.cs [Design]",
+              "RelativeToolTip": "SCHOOL SYSTEM\\StudentLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrincipalLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\PrincipalLogin.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\PrincipalLogin.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\PrincipalLogin.cs [Design]",
+              "RelativeToolTip": "SCHOOL SYSTEM\\PrincipalLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-07T06:41:13.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeacherLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TeacherLogin.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\TeacherLogin.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TeacherLogin.cs [Design]",
+              "RelativeToolTip": "SCHOOL SYSTEM\\TeacherLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\Form1.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\Form1.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\Form1.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIAwwB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeacherLogin.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TeacherLogin.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\TeacherLogin.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TeacherLogin.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\TeacherLogin.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAewFAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T16:19:32.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\Form1.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\Form1.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\Form1.cs [Design]",
+              "RelativeToolTip": "SCHOOL SYSTEM\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RemovePasteYear.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\RemovePasteYear.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\RemovePasteYear.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\RemovePasteYear.cs [Design]",
+              "RelativeToolTip": "SCHOOL SYSTEM\\RemovePasteYear.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddStudent.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddStudent.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\AddStudent.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddStudent.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\AddStudent.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddStudent.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\AddStudent.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddStudent.cs [Design]",
+              "RelativeToolTip": "SCHOOL SYSTEM\\AddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BatchPassNewGrade.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\BatchPassNewGrade.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\BatchPassNewGrade.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\BatchPassNewGrade.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\BatchPassNewGrade.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddTimeTable.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddTimeTable.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\AddTimeTable.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddTimeTable.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\AddTimeTable.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA7wIgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TimeTableTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TimeTableTeacher.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\TimeTableTeacher.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TimeTableTeacher.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\TimeTableTeacher.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowFcAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddResults.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddResults.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\AddResults.cs",
+              "ToolTip": "D:\\my projects\\school management system project GUI\\school_management_system_gui\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddResults.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeWorkStudent.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\HomeWorkStudent.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\HomeWorkStudent.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\HomeWorkStudent.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\HomeWorkStudent.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeWorkStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\HomeWorkStudent.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\HomeWorkStudent.cs",
+              "ToolTip": "D:\\my projects\\school management system project GUI\\school_management_system_gui\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\HomeWorkStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddHomeWork.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddHomeWork.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\AddHomeWork.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddHomeWork.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\AddHomeWork.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddHomeWork.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddHomeWork.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\AddHomeWork.cs",
+              "ToolTip": "D:\\my projects\\school management system project GUI\\school_management_system_gui\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddHomeWork.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TimeTableTeacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TimeTableTeacher.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\TimeTableTeacher.cs",
+              "ToolTip": "D:\\my projects\\school management system project GUI\\school_management_system_gui\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TimeTableTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BatchPassNewGrade.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\BatchPassNewGrade.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\BatchPassNewGrade.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\BatchPassNewGrade.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\HP\\Desktop\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\BatchPassNewGrade.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudentsAttendans.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\StudentsAttendans.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\StudentsAttendans.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\StudentsAttendans.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\StudentsAttendans.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentsAttendans.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\StudentsAttendans.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\StudentsAttendans.cs",
+              "ToolTip": "D:\\my projects\\school management system project GUI\\school_management_system_gui\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\StudentsAttendans.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StudentResults.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\StudentResults.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\StudentResults.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\StudentResults.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\StudentResults.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentResults.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\StudentResults.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\StudentResults.cs",
+              "ToolTip": "D:\\my projects\\school management system project GUI\\school_management_system_gui\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\StudentResults.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddTeacher.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\AddTeacher.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddTeacher.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\AddTeacher.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddTeacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddTeacher.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\AddTeacher.cs",
+              "ToolTip": "D:\\my projects\\school management system project GUI\\school_management_system_gui\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddResults.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddResults.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\AddResults.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddResults.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\AddResults.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddAtendance.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddAtendance.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\AddAtendance.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddAtendance.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\AddAtendance.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAswAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TeacherMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TeacherMenu.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\TeacherMenu.cs",
+              "ToolTip": "D:\\my projects\\school management system project GUI\\school_management_system_gui\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TeacherMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StudentMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\StudentMenu.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\StudentMenu.cs",
+              "ToolTip": "D:\\my projects\\school management system project GUI\\school_management_system_gui\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\StudentMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddAtendance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddAtendance.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\AddAtendance.cs",
+              "ToolTip": "D:\\my projects\\school management system project GUI\\school_management_system_gui\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddAtendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ExamResultStudent.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\ExamResultStudent.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\ExamResultStudent.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\ExamResultStudent.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\ExamResultStudent.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAA9wGAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ExamResultStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\ExamResultStudent.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\ExamResultStudent.cs",
+              "ToolTip": "D:\\NIBM\\lecturs note\\3rd\\GUI\\GUI project\\WF project\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\ExamResultStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TimeTableStudent.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TimeTableStudent.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\TimeTableStudent.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TimeTableStudent.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\TimeTableStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TimeTableStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TimeTableStudent.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\TimeTableStudent.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\GUI project\\WF project\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TimeTableStudent.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\HP\\Desktop\\GUI project\\WF project\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TimeTableStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddTimeTable.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddTimeTable.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\AddTimeTable.cs",
+              "ToolTip": "D:\\my projects\\school management system project GUI\\school_management_system_gui\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddTimeTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddTimeTable.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddTimeTable.Designer.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\AddTimeTable.Designer.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\AddTimeTable.Designer.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\AddTimeTable.Designer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwJ0CAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-10-07T06:41:13.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "StudentMenu.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\StudentMenu.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\StudentMenu.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\StudentMenu.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\StudentMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TeacherMenu.cs",
+              "DocumentMoniker": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TeacherMenu.cs",
+              "RelativeDocumentMoniker": "SCHOOL SYSTEM\\TeacherMenu.cs",
+              "ToolTip": "C:\\Users\\DUMINDU\\Desktop\\New folder (6)\\SCHOOL SYSTEM\\SCHOOL SYSTEM\\TeacherMenu.cs",
+              "RelativeToolTip": "SCHOOL SYSTEM\\TeacherMenu.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-07T06:41:13.984Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1162,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
